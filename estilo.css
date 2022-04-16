@@ -1,0 +1,33 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+#cima{
+    margin-bottom: 10px;
+    line-height: 130px;
+    text-align: center;
+    height: 130px;
+    background-image: linear-gradient( to right, rgb(219, 82, 190),rgb(228, 53, 228),rgb(243, 40, 192),rgb(214, 14, 131));
+}
+strong{
+    color: white;
+}
+img{
+    width: 300px;
+    height: 340px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px rgb(105, 119, 108);
+}
+main{
+    text-align: center;
+}
+#cima>h2{
+    margin-top: 0%;
+}
+#baixo{
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    background-color: rgba(22, 21, 21, 0.959);
+    color: white;
+}
